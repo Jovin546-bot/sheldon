@@ -1,0 +1,28 @@
+html{scroll-behavior:smooth}
+body{font-family:arial,san-serif;box-sizing:border-box;display:flex;flex-direction:column;}
+header{background-color:#ac3939;paddong:20px;text-align:center;color:black;}
+header{border:2px black ;border:onset;}
+header nav{margin-top:150px;}
+
+nav a {margin: 0 10px;text-decoration:none; color:;transtion:color 0.3s ease; margin: 20px; padding:11px;}
+.photo-placeholder{display:flex; align-item:center;gap:25px;text-align:center; background-color:#b3b3ff;}
+.profile-picture{width:240px;height:240px;border-style:inset;}
+a:link {color:white;}
+a:visited {color:green;}
+a:hover {color: rebeccapurple;}
+a:active {color: blue;}
+ header div{background-color:#000099;}
+ 
+
+.main{padding: 15px; flex: 1;}
+.school-item{border:1px solid #ccc;text-align:transform 0.5 ease;}
+.school-item:hover{transfomation:tranform(-2);box-shadow:0 6px 15px rgb(0, 1, 0.2)}
+.school-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:15px;margin:20px;}
+.school-grid div{ border-radius: 18px; border: 2px dotted  #ff99ff; padding: 30px; width: 200px; height: 70px;background-color:#b3b3ff ;border-radius: 25px;}
+
+nav{margin-top:15px;}
+   section {border: 15px hidden;border:onset;padding: 50px;margin: 20px;background-color:#c2c2a3;margin-right: 1px;margin-left: 1px;}
+   
+  footer {border: 15px hidden;border-radius: 8px;padding: 50px; margin: 20px;background-color:#660033;color:white;margin-right: 1px;margin-left: 1px;text-align:center;}
+
+
